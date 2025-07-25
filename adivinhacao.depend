@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1753447239 source:c:\users\acer\documents\estudos\livro c\codigos\adivinhacao\adivinhacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
