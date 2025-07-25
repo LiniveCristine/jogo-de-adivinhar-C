@@ -15,9 +15,10 @@ Ao final da partida, o jogador tem a opção de jogar novamente.
 * Números Randômicos
 
 ## Imagens
-<img width="504" height="496" alt="JOGO" src="https://github.com/user-attachments/assets/ebd923f0-5478-4db6-8a52-3d5337d20146" /> <img width="445" height="483" alt="GAME OVER" src="https://github.com/user-attachments/assets/4a0330c0-1dbe-4e25-a461-1a9ec1a9837c" />
-
-<img width="509" height="326" alt="parabens" src="https://github.com/user-attachments/assets/984d7dbc-b556-4fe1-9c37-06094a0f2eba" /> 
+<img width="504" height="496" alt="JOGO" src="https://github.com/user-attachments/assets/ebd923f0-5478-4db6-8a52-3d5337d20146" /> <br/> 
+<img width="425" height="277" alt="menu" src="https://github.com/user-attachments/assets/f6e19902-09b8-4008-9a73-2408ce98000b" /> <br/> 
+<img width="378" height="376" alt="tentativas" src="https://github.com/user-attachments/assets/cd0c3598-7fa3-4d1f-8808-12e77b897642" /> <br/> 
+<img width="451" height="382" alt="GAME OVER" src="https://github.com/user-attachments/assets/dc7e54f7-d7d1-4453-b880-25e7055c9f3e" /> <img width="509" height="326" alt="parabens" src="https://github.com/user-attachments/assets/984d7dbc-b556-4fe1-9c37-06094a0f2eba" /> 
 
 
 
