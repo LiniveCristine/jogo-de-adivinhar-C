@@ -10,7 +10,6 @@ int main (){
         int JogarNovamente = 1;
 
 
-
         while (JogarNovamente) {
 
             int segundos = time(0);
@@ -83,7 +82,7 @@ int main (){
             printf("\n");
             printf("       **********************************\n");
 
-            printf("%d\n", NumeroSecreto);
+            //printf("%d\n", NumeroSecreto);
 
 
             switch (nivel){
@@ -232,8 +231,6 @@ int main (){
             if(JogarNovamente != 1){
                 JogarNovamente = 0;
             }
-
-
         }
 
 
