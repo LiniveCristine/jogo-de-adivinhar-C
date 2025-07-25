@@ -15,11 +15,9 @@ Ao final da partida, o jogador tem a opção de jogar novamente.
 * Números Randômicos
 
 ## Imagens
-<img width="504" height="496" alt="JOGO" src="https://github.com/user-attachments/assets/ebd923f0-5478-4db6-8a52-3d5337d20146" />
+<img width="504" height="496" alt="JOGO" src="https://github.com/user-attachments/assets/ebd923f0-5478-4db6-8a52-3d5337d20146" /> <img width="445" height="483" alt="GAME OVER" src="https://github.com/user-attachments/assets/4a0330c0-1dbe-4e25-a461-1a9ec1a9837c" />
 
-<img width="509" height="326" alt="parabens" src="https://github.com/user-attachments/assets/984d7dbc-b556-4fe1-9c37-06094a0f2eba" />
-
-<img width="445" height="483" alt="GAME OVER" src="https://github.com/user-attachments/assets/4a0330c0-1dbe-4e25-a461-1a9ec1a9837c" />
+<img width="509" height="326" alt="parabens" src="https://github.com/user-attachments/assets/984d7dbc-b556-4fe1-9c37-06094a0f2eba" /> 
 
 
 
